@@ -37,7 +37,7 @@
 
 - Once done, you are done creating a new bucket.
 
-- Now, we can upload the files to S3. Click on a bucket you have created to navigate into it. You will have options to create a new folder of upload files directory.
+- Now, we can upload the files to S3. Click on a bucket you have created to navigate into it. You will have options to create a new folder of upload files directly.
 
 - I am choosing to create a new folder and then upload files into it now.
 
